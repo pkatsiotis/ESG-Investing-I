@@ -6,6 +6,7 @@ S&P 500 Stocks are used, historical prices & ESG data are from yahoo finance.
 A random sample of 50 stock is selected and 5 different selection strategies are implemented:
 
 • No screening (all 50 stocks are considered for optimization)
+
 • Environmental screening, using the environmental score the bottom 30% quantile are screened out from the investing universe
 
 • Social screening, using the social score the bottom 30% quantile are screened out from the investing universe
