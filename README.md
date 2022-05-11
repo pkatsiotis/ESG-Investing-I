@@ -3,7 +3,7 @@ Application and analysis of ESG screening approach for portfolio selection & opt
 First a selection strategy is applied and then mean-variance optimization is performed.
 S&P 500 Stocks are used, historical prices & ESG data are from yahoo finance.
 
-A random sample of 50 stock is selected and 5 different selection strategies are implemented:
+A random sample of 50 stocks is selected and 5 different selection strategies are implemented:
 
 • No screening (all 50 stocks are considered for optimization)
 
